@@ -1,70 +1,45 @@
-Hi there 👋
-# Hi, I'm Rashmi Khairnar 👋
+Hi, I'm Rashmi Khairnar 👋
+Aspiring Healthcare Data Analyst | Pharma & Clinical Analytics | Power BI | Excel | Statistics
 
-Aspiring Data Analyst | Business Analytics | Power BI | Excel | Statistics
-
-I am a B.Pharm student interested in Data Analytics, Business Intelligence, and Data Visualization.
-
-I enjoy working with data, creating dashboards, and finding meaningful business insights through analytics.
+I am a B.Pharm student combining domain knowledge in pharmaceutical sciences with Data Analytics, Business Intelligence, and Data Visualization. I enjoy working with complex datasets, building interactive dashboards, and uncovering insights that improve healthcare operations, patient outcomes, and pharmaceutical business performance.
 
 🛠️ Skills
+Excel (PivotTables & Power Query)
 
-* Excel
-* Power BI
-* Statistics
-* Data Cleaning
-* Data Visualization
-* Business Analytics
-* PivotTables & Power Query
+Power BI (DAX & KPI Modeling)
 
- 📊 Featured Projects
+Biostatistics & Statistical Analysis
 
- 1. Retail Sales Power BI Portfolio
+Data Cleaning & Validation
 
-Interactive retail sales dashboard built using Power BI, DAX, KPIs, and business performance visualizations.
+Data Visualization & Dashboard Design
 
- 2. Pureco Orders & Returns Audit
+Healthcare & Commercial Analytics
 
-Excel-based analysis of customer returns and delivery performance for a DTC skincare brand.
+📊 Featured Projects
+Pureco Orders & Returns Audit
+Excel-based quality and supply chain audit analyzing product returns, fulfillment bottlenecks, and delivery performance for a DTC skincare and personal care brand.
 
- 3. Retail Sales Analytics Dashboard
+DeltaTech H1 2024 Financial Dashboard
+Excel financial analysis tracking revenue, cost efficiency, product margins, and regional performance—applying budgeting and variance methodologies transferable to hospital and pharma operations.
 
-Excel project covering data cleaning, descriptive statistics, KPI analysis, PivotTables, and dashboard creation.
+Retail Sales Power BI Portfolio
+Interactive performance dashboard built using Power BI, DAX, and dynamic KPIs to monitor volume trends, utilization metrics, and multi-region performance.
 
- 4. DeltaTech H1 2024 Financial Dashboard
+Retail Sales Analytics Dashboard
+End-to-end Excel project covering data cleaning, descriptive statistics, KPI tracking, PivotTables, and executive dashboard design.
 
-Excel financial analysis covering revenue, profitability, product margins, and regional performance.
+NordicCart Marketing Analytics
+Commercial analytics project evaluating outreach spend, ROI, acquisition costs, and channel effectiveness.
 
- 5. NordicCart Marketing Analytics
+📚 Currently Learning
+SQL (for querying clinical and healthcare databases)
 
-E-commerce marketing analytics project analyzing sales, marketing spend, ROI, CAC, and channel performance.
+Advanced Power BI
 
- 📚 Currently Learning
+Healthcare & Pharmaceutical Analytics
 
-* SQL
-* Advanced Power BI
-* Business Analytics
-
- 🎯 Career Goal
-
-Looking for Business Analytics and Data Analyst internship opportunities in the Netherlands.
-
-
----
+🎯 Career Goal
+Looking for Healthcare Data Analyst, Pharma Commercial Analytics, and Business Analytics internship opportunities in the Netherlands.
 
 ⭐ Thank you for visiting my profile!
-
-<!--
-**RashmiKhairnar24/RashmiKhairnar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
